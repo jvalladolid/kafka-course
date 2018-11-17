@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch.plugin:aggs-matrix-stats-client:6.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/aggs-matrix-stats-client/6.5.0/7b2b1a54469465a321804149cb0994a574b7ca81/aggs-matrix-stats-client-6.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/aggs-matrix-stats-client/6.5.0/d0a98649ac43ef9dea07813fd31ab5b0f7522d2c/aggs-matrix-stats-client-6.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

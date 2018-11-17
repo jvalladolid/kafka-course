@@ -6,6 +6,8 @@
       <module name="kafka-basics_test" target="1.8" />
       <module name="kafka-beginners-course_main" target="1.8" />
       <module name="kafka-beginners-course_test" target="1.8" />
+      <module name="kafka-consumer-elasticsearch_main" target="1.8" />
+      <module name="kafka-consumer-elasticsearch_test" target="1.8" />
       <module name="kafka-producer-twitter_main" target="1.8" />
       <module name="kafka-producer-twitter_test" target="1.8" />
     </bytecodeTargetLevel>
