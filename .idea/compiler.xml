@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kafka-basics_main" target="1.8" />
+      <module name="kafka-basics_test" target="1.8" />
+      <module name="kafka-beginners-course_main" target="1.8" />
+      <module name="kafka-beginners-course_test" target="1.8" />
+      <module name="kafka-producer-twitter_main" target="1.8" />
+      <module name="kafka-producer-twitter_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

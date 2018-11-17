@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics.iml" group="kafka-basics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics_main.iml" group="kafka-basics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-basics/kafka-basics_test.iml" group="kafka-basics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-beginners-course.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-beginners-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-beginners-course_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-beginners-course_main.iml" group="kafka-beginners-course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-beginners-course_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-beginners-course_test.iml" group="kafka-beginners-course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter.iml" group="kafka-producer-twitter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter_main.iml" group="kafka-producer-twitter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-twitter/kafka-producer-twitter_test.iml" group="kafka-producer-twitter" />
+    </modules>
+  </component>
+</project>
