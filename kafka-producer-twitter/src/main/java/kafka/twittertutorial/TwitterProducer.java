@@ -23,10 +23,10 @@ import java.util.concurrent.TimeUnit;
 
 public class TwitterProducer {
 
-    private String consumerKey = "PkGgyJVAvDlv1bBO3XJAm4QPs";
-    private String consumerSecret = "haw1JAJ6kjB6J1VMd28VH1GojeScB72fXUM3WrG4o3GHpTmflw";
-    private String token = "1062839760291614725-wGZyttNTiHzfjEX7HymnXmBNaDV2gT";
-    private String tokenSecret = "0r6aFZ7487sQWkDVReGTLIa3d0m6K9ZsQBGX1p1pmzftX";
+    private String consumerKey = "CONSUMER_KEY";
+    private String consumerSecret = "CONSUMER_SECRET";
+    private String token = "TOKEN";
+    private String tokenSecret = "TOKEN_SECRET";
 
     private List<String> terms = Lists.newArrayList("bitcoin", "usa", "politics", "sport", "soccer");
 

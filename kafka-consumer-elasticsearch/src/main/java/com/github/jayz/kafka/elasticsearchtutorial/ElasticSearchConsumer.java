@@ -39,9 +39,9 @@ public class ElasticSearchConsumer {
     public static RestHighLevelClient createELSClient() {
 
         // credentials to connect to the ElasticSearch
-        String hostname = "kafka-course-7614071082.eu-west-1.bonsaisearch.net";
-        String username = "ixzagczvvz";
-        String password = "33a9rv4v50";
+        String hostname = "HOSTNAME";
+        String username = "USERNAME";
+        String password = "PASSWORD";
 
         // not needed if we use a local ElasticSearch
         final CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
